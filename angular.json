@@ -63,10 +63,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "lab1:build:production"
+              "buildTarget": "vallejosroberto-frameworks:build:production"
             },
             "development": {
-              "buildTarget": "lab1:build:development"
+              "buildTarget": "vallejosroberto-frameworks:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -92,5 +92,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "58df9e93-f93b-4429-9920-1d9c3a146109"
   }
 }
